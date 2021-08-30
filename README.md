@@ -1,6 +1,6 @@
 # nus-august-30
 
-## testing 1
+## this is smaller text
 
 here is some normal text
 
